@@ -1,0 +1,14 @@
+numpy==2.1.3
+pandas==2.2.3
+ipywidgets==8.1.9
+torch==2.11.0
+huggingface_hub==1.33.0
+transformers==5.18.0
+tokenizers==0.23.3
+safetensors==0.8.0
+datasets==4.8.5
+accelerate==1.15.0
+peft==0.21.2
+trl==1.16.0
+# Local kernel only.
+jupyter==1.1.1
